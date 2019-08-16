@@ -1,8 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://gary123:gary123@readdit-tsk4x.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "twitterClientId": "XwVsVcMS9bdFoJRFlg9lF5sUS",
-  "twitterSecret": "LC4T5MfA5bUCDsHbBsLLAf9x1wYeiAuiWOwTQGuKIy1nQ0nFZZ",
-  "twitterToken": "1150896151660568576-FhiIvCe8O03VPibSGeSvvVcIT4G1Kb",
-  "twitterTokenSecret": "t0tu9IRBXxp3tvPgAPEYnHSEErk9MDst0dDYJkcx8cWrN"
-}
